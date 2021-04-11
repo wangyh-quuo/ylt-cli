@@ -1,6 +1,6 @@
 {
   "name": "ylt-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "wangyh-quuo",
   "description": "create vue template project",
   "private": false,
