@@ -1,0 +1,19 @@
+{
+  "name": "ylt-cli",
+  "version": "1.0.0",
+  "bin": {
+    "ylt": "bin/cli.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.2.0",
+    "inquirer": "^8.0.0",
+    "node-fetch": "^2.6.1",
+    "ora": "^5.4.0"
+  },
+  "devDependencies": {
+    "download-git-repo": "^3.0.2"
+  }
+}
