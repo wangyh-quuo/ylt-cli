@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "author": "wangyh-quuo",
   "description": "create vue template project",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyh-quuo/ylt-cli.git"
+  },
   "bin": {
     "ylt": "bin/cli.js"
   },
@@ -13,9 +18,7 @@
     "commander": "^7.2.0",
     "inquirer": "^8.0.0",
     "node-fetch": "^2.6.1",
-    "ora": "^5.4.0"
-  },
-  "devDependencies": {
+    "ora": "^5.4.0",
     "download-git-repo": "^3.0.2"
   }
 }
